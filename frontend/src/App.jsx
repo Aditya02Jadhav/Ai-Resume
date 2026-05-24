@@ -33,7 +33,7 @@ function App() {
           <Route path="/account" element={<PrivateRoute><Account /></PrivateRoute>} />
           <Route path="/pricing" element={<Pricing />} />
           <Route path="/analyzer" element={<Analyzer />} />
-          <Route path="/mock-panel" element={<PrivateRoute><MockPanel /></PrivateRoute>} />
+          <Route path="/mock-panel" element={<MockPanel />} />
           <Route path="*" element={<Navigate to="/" replace />} />
 
         </Routes>
