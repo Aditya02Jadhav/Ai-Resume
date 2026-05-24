@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Resume Builder & Score Checker
 
 A premium, modern full-stack web application designed to help users score their resumes against ATS (Applicant Tracking Systems) standards and seamlessly build modern resumes.
