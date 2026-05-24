@@ -69,7 +69,7 @@ This repository contains two independently manageable services:
 - Uses **SQLAlchemy ORM** to manage data interactions cleanly without inline SQL.
 - Adheres to standard REST principles with **FastAPI**.
 - Styled explicitly with **TailwindCSS**, utilizing a dark grid / glassmorphism scheme for an ultra-premium look.
-=======
+
 # Resume Analyser
 
 A full-stack Agentic AI application that analyzes resumes against job descriptions using LangGraph and the Gemini API.
@@ -132,4 +132,3 @@ START → parser_node → scoring_node → critique_node → finalizer_node → 
 - 🔍 Actionable critique with severity ratings
 - 🔑 Keyword match/miss analysis
 - 📝 Full history in sidebar
->>>>>>> origin/feature/resume-analyser
